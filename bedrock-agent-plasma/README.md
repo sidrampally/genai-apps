@@ -34,7 +34,7 @@ The **Plasma Donation Assistant** solves these problems by:
 
 ## 🏛️ Architecture  
 
-![Bedrock Agents – Plasma Donation Site Assistant](./unnamed.png)  
+![Bedrock Agents – Plasma Donation Site Assistant](./arch.png)  
 
 The architecture consists of:  
 
